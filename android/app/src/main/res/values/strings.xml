@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">328088856878481</string>
+    <string name="fb_login_protocol_scheme">fb328088856878481</string>
+    <string name="facebook_client_token">b60da60d5aaf8dafb3907102c718d926</string>
+    <string name="app_name">Home hub</string>
+</resources>
